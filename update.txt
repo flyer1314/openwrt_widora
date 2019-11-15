@@ -1,0 +1,18 @@
+#20191026#FLY@NOTE:
+1.系统账户root，默认密码：12345678；
+2.默认WIFI密码：0123456789；
+
+#20181126#FLY@NOTE:
+1.添加iperf3;
+
+#20180706#FLY@
+1.添加我的第一个openwrt程序helloworld；
+
+#20180628#FLY@
+1.针对初始配置无wifi信号，配置选择：Ralink SDK Mango ---><*> mtk-wifi;
+2.修改banner里面的log；
+3.修改login.sh脚本，远程登录telnet需要验证；
+
+
+#20180626#FLY@
+1.将编译器的路径加到环境变量中；
